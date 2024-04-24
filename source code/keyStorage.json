@@ -1,0 +1,148 @@
+{
+  "DID:ABDNSSI:4": [
+    {
+      "publicKeyHex": "voZ6+hkRBKPzvHCrlkKayosGs9SrhV/PEJMCfjP8mKbl613NfxtdWTevtAvIy/cwUh5pvR0mbh3uurUax5ABXg==",
+      "hash": "69203bc8301a323ae7b51bdd294d4f00d26b6aee1e5bc35796a3de65de7e34fd"
+    }
+  ],
+  "DID:ABDNSSI:5": [
+    {
+      "publicKeyHex": "fGeX4hC/ySOprJIV2uW8o4GsuHBYkCHOw3Cfyroh7+rIp0f56p0SYGI/kih8dB7MImNyaX5Hz5EK1xhQZEwXPA==",
+      "hash": "2673df0bb54f9517a5b86f07528d1ab291ceafe9f0886a5a8dce14fd700726aa"
+    },
+    {
+      "publicKeyHex": "mUg/dQK9PsveG9W7diocqdkkWsUE8TXQpRez3tZm8Co8lPU8aeb+FVX07GmpiBiMRN75bone/Uk/PE8MoHAbuA==",
+      "hash": "b85a9072101e03206daac8f5a01c5f4b0cdb82afa52c5c9579b32fa7134481c3"
+    },
+    {
+      "publicKeyHex": "examplepublickey",
+      "hash": "examplehex"
+    }
+  ],
+  "DID:ABDNSSI:6": [
+    {
+      "publicKeyHex": "vKIN86p+7QdvowdOxvXh1h0w5GwRn/AObqItlOAmM4O0tf8R4r0K0g9O0c95cYmsUDvLhyIsNtS2IUMT5xg4sg==",
+      "hash": "5a75184999c91bc5f8dfc9fb20b0ae159a7e0f2d6146c691734bad92100d16ea"
+    },
+    {
+      "publicKeyHex": "ePRFMH2POALtA7nCqSTgI2xfqRK8M4vRzA97F24tSjftsGaDVthMAgRv7dDjjoPoqbbnnvoXDa0Ia2Vy8VWx2Q==",
+      "hash": "3e9b358b3aa5f50d37422ed4ee3edde5527589e8ce8432837ea1c26cd531fbca"
+    }
+  ],
+  "DID:ABDNSSI:7": [
+    {
+      "publicKeyHex": "LwcMBjFEoBRVRuuJvVqZ6Av3AOOMygDBEufT1cCrcIul6JTkQrAjcToObjjks/re+ON5EDpVMEsCCmjTeOxqEw==",
+      "hash": "46ec8ffcf621dffaf1ba109b17e5c115b2fbcb52a270328dbaa79c2e5d8733cc"
+    }
+  ],
+  "DID:ABDNSSI:2": [
+    {
+      "publicKeyHex": "Y2gq7M+Jrf3Ucdic5RnbsBjbuSIPmTjhJTREMs/uV8FhIKwhXDwccAb3CgbfQ0uaazs8iTtI2gkQ871lMgTsyg==",
+      "hash": "d93c0d6debe2f0fd5dd27ae98ade47121494400ce0993450993c93930ef112c6"
+    },
+    {
+      "publicKeyHex": "fYyuy3PMUkcXmUymE3EUBKXkn6YP0aKyxZNAUHgIXHUtbfzgETf974SdVx/oRnFtMFhkGcD579PU/5eNiEFQ9w==",
+      "hash": "d3ddf26e1e8797208b1c5e5ca1dca3eb5827154fcf4dbb294ef1ff47780a19f6"
+    },
+    {
+      "publicKeyHex": "9AdLVTKeocGeF+/wZGhIiVm4K4NB3pnjdY11I7/6MbqfoKB7B/6T8HC0cOIQBwaLTxODdaZcE4Qf1xW81fQnbQ==",
+      "hash": "f98dc8d5e15c604f71113504485714abe2bf829d7313b6d2384e994c6bcca7a4"
+    },
+    {
+      "publicKeyHex": "FnGaN/B821fibwXAnDnrcro/2IU5NwIa2RXbHnYfV6Eu1c6FeCN0y1f5FQw+HwDeCoZY3WSpGj18iM6SzPXgjg==",
+      "hash": "8f1061f571ee329e121dd94bf148444191e620a4338e590330856b656e5dfe16"
+    },
+    {
+      "publicKeyHex": "X5CQXarGDV5Ki6KEwZasSVIMe9y+5GqlhiWxRK5QQyOBxDuLpat8vOFIfiQUDvfZXjD9bCSRur5C4I9Mm/yBxg==",
+      "hash": "8507f29c2311c535ebad522046c96b6a63017d97d5597c246a6087a9e2b03a02"
+    },
+    {
+      "publicKeyHex": "WNAw/1tphGy8obd0p79Qg8SQUykwxXZTDVlzA2YTIsRtcgHFoHG0QAkVJ2rbFLSBCJ2dfbfge1Hvkkap1z/L0g==",
+      "hash": "f54fdf210d66e4c4b3fa443d869e32174ff532870974d9a4a3abb0094b34e497"
+    },
+    {
+      "publicKeyHex": "qg+rP3vuemmI7/8fnT5xqRHvQ9KhpEV3gBD8hQsn7NQx/J4/jswQTD4aEBkFqhyxWLlWsMQ9TtgmXu13VOROFA==",
+      "hash": "01c4196a88b0540f94cc9c4da2217e73ff12635fcd45a60d91612aab8af3a962"
+    },
+    {
+      "publicKeyHex": "3KmHG+64EkizN5lVgyStHXnHdzQcCP3WFiGWUQKVuH1lGfXDwbnuN0eB1KHAo/LmqRFyHEEzabS27tn4267Y2A==",
+      "hash": "14cffc57492b46bc57e1b9b6c7edb0becfef535f3649a09446d48c9d211fd62e"
+    },
+    {
+      "publicKeyHex": "DahddT/iTEPQd597AUSUKrEepcCPIHJTvJfjylXV+Q/o6hklys2k+66TgBEM6IxMJbxKcSYdBCb7lBZNFeIe9A==",
+      "hash": "b508687f617179837057300d0adfd5dbbe846c29c1bd37ad8df8eeaf43f701d8"
+    }
+  ],
+  "DID:ABDNSSI:8": [
+    {
+      "publicKeyHex": "nf3meAVAP0aN0AG0rHf16Syy8TdqOEBRU6PV7wcacGirgA8UMTYIXFH1xKit2R9lZPozk9shnhAAHdVY5Tf9Bg==",
+      "hash": "984f0b724be9d1755ea93f75c8721ea59c2fe086b4a84de16c30a6c6a357e9dd"
+    },
+    {
+      "publicKeyHex": "nf3meAVAP0aN0AG0rHf16Syy8TdqOEBRU6PV7wcacGirgA8UMTYIXFH1xKit2R9lZPozk9shnhAAHdVY5Tf9Bg==",
+      "hash": "984f0b724be9d1755ea93f75c8721ea59c2fe086b4a84de16c30a6c6a357e9dd"
+    }
+  ],
+  "DID:ABDNSSI:9": [
+    {
+      "publicKeyHex": "3YiZM3FVycmZ67q+3I6YQbaobWkxQfunD4ZBdb50X8bikcFcFU4vb0ZA8/Y0LnRF9CTQKBIL7obP5U6c1uNZgg==",
+      "hash": "307eecacbe4ff14801a2709c0068def32e3b1e79fc52fc50a96817dfc5921125"
+    }
+  ],
+  "DID:ABDNSSI:10": [
+    {
+      "publicKeyHex": "jBfBd0wcj0+95qZpSG08/YbJHXhvyT/CSjTHxNAAKLnw5865yVi2yYaMddozFqXPVQD2a7Xneh8djYGQzdCrCg==",
+      "hash": "3bbe78e0081e6d41719aa7fcb12c92972829c1c7e9f812e8f1398a8f06dfe7e0"
+    }
+  ],
+  "DID:ABDNSSI:11": [
+    {
+      "publicKeyHex": "Ofp1fFH2V0XUfQUmCH0xuakNxYaVBlBnUkmuiQ5i6SfO47Ri2yMEmzz2GgGeKCo6UpN7MfsylNnn4O3RQRJ8hA==",
+      "hash": "8378d02244d5e1350940c3bd79cc2343b1e581101e0fd36c3bf4dc8e8490018c"
+    }
+  ],
+  "DID:ABDNSSI:12": [
+    {
+      "publicKeyHex": "ybQ+qMyFZUBS27yVVi2cIzgdVbvS6rLxXzkwAzBT7TyLCh2Y/T07BCwUnEAtR0NE4udp7lgMk4ikz66lmsxhvw==",
+      "hash": "505e5ba9cef5cf7ba6316a4753bf4e4e747520121c2d7fa91da27003bd827fe6"
+    }
+  ],
+  "DID:ABDNSSI:13": [
+    {
+      "publicKeyHex": "CXUJpDrbn6rixKvgsnsy+EFJGtk+mZs1GxM1PLI9/lx77MF5I86CAf4VVCi9o58+gdTJMQxF6sIAIXHBwCCCsw==",
+      "hash": "6592aba223af5deffb52bd03bd8ec10458bce26f2eeaf2ae293b0fdc2c3a55bd"
+    }
+  ],
+  "DID:ABDNSSI:14": [
+    {
+      "publicKeyHex": "5zJWcgq60sPgZZn5a517QiD2Gab0O7nrNjfg7+lxoMAD3jgEs5WFL1Yqg/f/NVDxdhqQslDWGhD/j2Hs38Sp2w==",
+      "hash": "36d36bc48c986df4c9bbd78003c548d714b4e62b86c9a2da294378af6de2756a"
+    },
+    {
+      "publicKeyHex": "UqIcPhNp0M1IbG3Y9R8OyPMeGg1ZOUpQuU8sjd8+9ldKrCj9++FFIx7vX6JcpP1wDWceuKtYsoLjFFPJhIa28g==",
+      "hash": "c687e7c5595276faa5587a51c6a7cb286e368474dd227512c5acbd53098268c3"
+    },
+    {
+      "publicKeyHex": "DngxPfInnRRnigqSc5QFHYPTwzRqAs1QGFVZp9LbUlqoBJAOZkqQ6MNyevSkZ9z8UmdNE7imSZZ+lRnOCBM+LA==",
+      "hash": "292d2332f4d0cfc92ac8724498bbaaea439051285f837ee67a2a96d5fe65336d"
+    }
+  ],
+  "DID:ABDNSSI:15": [
+    {
+      "publicKeyHex": "u2pwVUptGsnvI5OmgvQPg3Xwa3hQ+GqRrp5g+NiddCbbi/xH3EEGh+YVbqcz9s86BCKq0IpHomaMdtI6ThazyQ==",
+      "hash": "7c63021ce27307e40eefd4d0f70ec823c28238cc50bd44c9f64873f2ad7b190a"
+    }
+  ],
+  "DID:ABDNSSI:16": [
+    {
+      "publicKeyHex": "BHjTj6Xhjawt31eOhgedTR7jFRuUo7yqqdxd1YFcfBYe1xNHaB8Dj1IBm9l669xZ9LwHS2h6A9TiYEOHwgE7ZQ==",
+      "hash": "bc5fded6c4cdf4984baee6c569c19235dc03af3c5c48944df5ae0e742a30b92f"
+    }
+  ],
+  "DID:ABDNSSI:17": [
+    {
+      "publicKeyHex": "EQcTbxJP+dypFenrnM/DlqWIIUOAEdIsgUPo5NmUUIEuQ74teYXz/aUu3VqPxZjk5mFlEyB64SegwAtsfUV1/Q==",
+      "hash": "03dd39ad3b4d78777ddc85b548fd752b9e0b5b722d5ca02c9f36f588ec57245b"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "Credential ID",
+    "issuer": "Issuers DID",
+    "validFrom": "Date of Credential Issuance, UNIX TIMESTAMP",
+    "validTill": "Validity Period, left blank if no end date, UNIX TIMESTAMP",
+    "signature": "digitally sign credential",
+    "type": ["Type of Credential"],
+    
+
+    "credentialSubject": {
+      "id": "DID of Subject", 
+      "name": "",
+      "age": "",
+      "memberOfClub": false
+    }
+  }
